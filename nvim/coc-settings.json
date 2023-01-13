@@ -1,0 +1,12 @@
+{
+	"coc.source.OmniSharp.enable": true,
+	"coc.source.OmniSharp.triggerCharacters": ".",
+	"coc.snippets.enable": true,
+	"coc.snippets.manager": "yasnippet",
+	"coc.snippets.useWorkspaceSnippets": true,
+	"coc.snippets.nextNumbering": "MarkdownCode",
+	"coc.snippets.maxSuggestions": 5,
+	"prettier.tslintIntegration": true,
+	"prettier.eslintIntegration": false,
+	"coc.preferences.formatOnSave": true
+}
